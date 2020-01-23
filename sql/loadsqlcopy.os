@@ -14,51 +14,7 @@
 
 	СтруктураАдресов = Новый Структура;
 	
-	СтруктураАдресов.Вставить("ERP_ZAS", Новый Структура("Email, Telegram","Anna.Zheludkova@rtits.ru",""));
-	СтруктураАдресов.Вставить("ECM_ZAS", Новый Структура("Email, Telegram","Anna.Zheludkova@rtits.ru",""));
-
-	СтруктураАдресов.Вставить("ERP_SAR", Новый Структура("Email, Telegram","Alfik.Shakirov@rtits.ru",""));
-	СтруктураАдресов.Вставить("ECM_SAR", Новый Структура("Email, Telegram","Alfik.Shakirov@rtits.ru",""));
-
-	СтруктураАдресов.Вставить("ECM_DJR", Новый Структура("Email, Telegram","Yuliya.Davlyatshina@rtits.ru",""));
-	СтруктураАдресов.Вставить("ERP_DJR", Новый Структура("Email, Telegram","Yuliya.Davlyatshina@rtits.ru",""));
-	
-	СтруктураАдресов.Вставить("ERP_AAZ", Новый Структура("Email, Telegram","Albert.Akhmetzyanov@rtits.ru",""));
-
-	СтруктураАдресов.Вставить("ECM_AID", Новый Структура("Email, Telegram","Alyena.Dubinskaya@rtits.ru","-1001133466277"));
-
-	СтруктураАдресов.Вставить("ECM_KKD", Новый Структура("Email, Telegram","Kristina.Kholopova@rtits.ru",""));
-	СтруктураАдресов.Вставить("ERP_KKD", Новый Структура("Email, Telegram","Kristina.Kholopova@rtits.ru",""));
-	
-	СтруктураАдресов.Вставить("ERP_KAV", Новый Структура("Email, Telegram","Andrey.Karpov@rtits.ru",""));
-	СтруктураАдресов.Вставить("ECM_KAV", Новый Структура("Email, Telegram","Andrey.Karpov@rtits.ru",""));
-
-	СтруктураАдресов.Вставить("ERP_MAV", Новый Структура("Email, Telegram","aleksey.marochkin@rtits.ru","-1001094974811"));
-	СтруктураАдресов.Вставить("ERP_REL", Новый Структура("Email, Telegram","aleksey.marochkin@rtits.ru","-1001094974811"));
-	
-	СтруктураАдресов.Вставить("ECM_MAV", Новый Структура("Email, Telegram","aleksey.marochkin@rtits.ru","-1001094974811"));
-	
-	
-	СтруктураАдресов.Вставить("ERP_MMY", Новый Структура("Email, Telegram","Mikhail.Madekin@rtits.ru",""));
-	СтруктураАдресов.Вставить("ERP_MMY2", Новый Структура("Email, Telegram","Mikhail.Madekin@rtits.ru",""));
-	СтруктураАдресов.Вставить("ECM_MMY", Новый Структура("Email, Telegram","Mikhail.Madekin@rtits.ru",""));
-	
-	СтруктураАдресов.Вставить("ERP_BMS", Новый Структура("Email, Telegram","Mikhail.Bocharov@rtits.ru",""));
-		
-	СтруктураАдресов.Вставить("ERP_DAI", Новый Структура("Email, Telegram","Andrey.Dobrynin@rtits.ru",""));
-	СтруктураАдресов.Вставить("ECM_DAI", Новый Структура("Email, Telegram","Andrey.Dobrynin@rtits.ru",""));
-	
-	СтруктураАдресов.Вставить("ERP_MSS", Новый Структура("Email, Telegram","Sergey.Menzhesarov@rtits.ru","-1001107290583"));
-	СтруктураАдресов.Вставить("ECM_MSS", Новый Структура("Email, Telegram","Sergey.Menzhesarov@rtits.ru","-1001107290583"));
-
-	СтруктураАдресов.Вставить("ERP_MSS2", Новый Структура("Email, Telegram","Sergey.Menzhesarov@rtits.ru","-1001107290583"));
-	
-	СтруктураАдресов.Вставить("ERP_KDS", Новый Структура("Email, Telegram","Dmitriy.Klimashin@rtits.ru","-1001075061753"));
-	СтруктураАдресов.Вставить("ECM_KDS", Новый Структура("Email, Telegram","Dmitriy.Klimashin@rtits.ru","-1001075061753"));
-	
-	СтруктураАдресов.Вставить("ERP_MKA", Новый Структура("Email, Telegram","Kseniya.Medvedeva@rtits.ru","-1001216550133"));
-
-	СтруктураАдресов.Вставить("ERP_TEST", Новый Структура("Email, Telegram","aleksey.marochkin@rtits.ru","-1001094974811"));
+	////
 	
 	ТекстСообщения = "";
 	
